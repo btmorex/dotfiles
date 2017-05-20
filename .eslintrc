@@ -17,7 +17,7 @@
         "comma-style": 2,
         "computed-property-spacing": 2,
         "consistent-this": [2, "that"],
-        "indent": [2, 2],
+        "indent": [2, 2, {"SwitchCase": 1}],
         "linebreak-style": 2,
         "keyword-spacing": 2,
         "no-lonely-if": 2,
