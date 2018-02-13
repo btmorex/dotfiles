@@ -37,7 +37,7 @@
         "one-var": ["error", {"initialized": "never", "uninitialized": "always"}],
         "operator-assignment": ["error", "always"],
         "operator-linebreak": "error",
-        "quotes": ["error", "single", {"avoidEscape": true}],
+        "quotes": ["error", "single", {"avoidEscape": true, "allowTemplateLiterals": true}],
         "semi-spacing": "error",
         "semi": "error",
         "space-before-blocks": "error",
